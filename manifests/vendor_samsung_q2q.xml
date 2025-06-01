@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="https://github.com/" />
+    <project name="hackshem/device_samsung_q2q" path="device/samsung/q2q" remote="github" revision="halium-9.0" />
+    <project name="hackshem/kernel_samsung_q2q" path="kernel/samsung/q2q" remote="github" revision="halium-9.0" />
+    <project name="hackshem/vendor_samsung_q2q" path="vendor/samsung/q2q" remote="github" revision="halium-9.0" />
+</manifest>
